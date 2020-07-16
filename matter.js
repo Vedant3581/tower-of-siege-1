@@ -6,7 +6,7 @@
 
 /**
  * The MIT License (MIT)
- * 
+ *
  * Copyright (c) 2014 Liam Brummitt
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -1,6 +1,5 @@
-class Ground extends BaseClass {
+class Ground {
     constructor(x,y,width,height) {
-      super(x,y,width,height);
       var options = {
           isStatic: true
       }
@@ -15,4 +14,4 @@ class Ground extends BaseClass {
       fill("brown");
       rect(pos.x, pos.y, this.width, this.height);
     }
-  };
+  }
